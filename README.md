@@ -20,3 +20,17 @@ The main objectives of this project include:
 To run this project on your own machine, follow these steps:
 
 1. Clone this repository to your local machine using the following Git command:
+https://github.com/Vinypin/byb_project/tree/master
+
+2. Navigate to the project directory.
+ 
+3. Run the `helloWorld.py` file to see the "Hello World!" message.
+
+
+## Author
+
+This project was developed by [Vinypin](https://github.com/Vinypin).
+
+
+
+
